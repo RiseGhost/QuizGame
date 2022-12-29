@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recouse>
+    <!--> Normal questions: <!-->
+    <Question>
+        <Tittle>Qual destes países é transcontinental?</Tittle>
+        <Category>Geografia</Category>
+        <Difficulty>2</Difficulty>
+        <Answer1>Rússia</Answer1>
+        <Answer2>Filipinas</Answer2>
+        <Answer3>Tanzânia</Answer3>
+        <Answer4>Marrocos</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Júpiter e Plutão são os correlatos romanos de quais deuses gregos?</Tittle>
+        <Category>Mitologia</Category>
+        <Difficulty>2</Difficulty>
+        <Answer1>Zeus e Hades</Answer1>
+        <Answer2>Zeus e Ares</Answer2>
+        <Answer3>Cronos e Apolo</Answer3>
+        <Answer4>Ares e Hermes</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Qual o maior animal terrestre?</Tittle>
+        <Category>Biologia</Category>
+        <Difficulty>2</Difficulty>
+        <Answer1>Elefante africano</Answer1>
+        <Answer2>Baleia Azul</Answer2>
+        <Answer3>Tubarão Branco</Answer3>
+        <Answer4>Girafa</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Qual líder mundial ficou conhecida como "Dama de Ferro"?</Tittle>
+        <Category>História</Category>
+        <Difficulty>2</Difficulty>
+        <Answer1>Margared Thatcher</Answer1>
+        <Answer2>Dilma Rousseff</Answer2>
+        <Answer3>Angela Merket</Answer3>
+        <Answer4>Hillary Clinton</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Quais os principais heterônimos de Fernando Pessoa?</Tittle>
+        <Category>Linguas</Category>
+        <Difficulty>2</Difficulty>
+        <Answer1>Alberto Caeiro, Ricardo Reis e Álvaro de Campos.</Answer1>
+        <Answer2>Alberto Caeiro, Ricardo Leite e Augusto de Campos</Answer2>
+        <Answer3>Bento Teixeira, Ricardo Reis e Haroldo de Campos</Answer3>
+        <Answer4>Ariano Suassuna, Raul Bopp e Quincas Borba</Answer4>
+    </Question>
+    <Question>
+        <Tittle>As pessoas de qual tipo sanguíneo são consideradas doadores universais?</Tittle>
+        <Category>Biologia</Category>
+        <Difficulty>2</Difficulty>
+        <Answer1>Tipo O</Answer1>
+        <Answer2>Tipo A</Answer2>
+        <Answer3>Tipo B</Answer3>
+        <Answer4>Tipo AB</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Quais são os cromossomos que determinam o sexo masculino?</Tittle>
+        <Category>Biologia</Category>
+        <Difficulty>2</Difficulty>
+        <Answer1>Os Y</Answer1>
+        <Answer2>Os X</Answer2>
+        <Answer3>Os M</Answer3>
+        <Answer4>Os Z</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Qual cantor liderou o grupo pop dos anos 1970, Showaddywaddy?</Tittle>
+        <Category>Musica</Category>
+        <Difficulty>2</Difficulty>
+        <Answer1>Dave Bartram</Answer1>
+        <Answer2>Stevie Wonde</Answer2>
+        <Answer3>David Bowie</Answer3>
+        <Answer4>Led Zeppelin</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Em que ano foi pintada Mona Lisa</Tittle>
+        <Category>História</Category>
+        <Difficulty>2</Difficulty>
+        <Answer1>1503</Answer1>
+        <Answer2>1555</Answer2>
+        <Answer3>1498</Answer3>
+        <Answer4>1510</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Em que ano morreu o físico Albert Einstein?</Tittle>
+        <Category>História</Category>
+        <Difficulty>2</Difficulty>
+        <Answer1>1955</Answer1>
+        <Answer2>1945</Answer2>
+        <Answer3>1985</Answer3>
+        <Answer4>1960</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Qual é a 1º Lei de Newton?</Tittle>
+        <Category>Física</Category>
+        <Difficulty>2</Difficulty>
+        <Answer1>Lei da Inércia</Answer1>
+        <Answer2>Princípio Fundamental da Dinâmica</Answer2>
+        <Answer3>Lei da Ação e Reação</Answer3>
+        <Answer4>Lei da gravitação universal</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Qual a distância entre a Terra e o Sol?</Tittle>
+        <Category>Física</Category>
+        <Difficulty>2</Difficulty>
+        <Answer1>150 000 000 km</Answer1>
+        <Answer2>150 000 000 m</Answer2>
+        <Answer3>150 000 000 000 km</Answer3>
+        <Answer4>150 000 km</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Qual foi o primeiro sucesso dos beatles?</Tittle>
+        <Category>Musica</Category>
+        <Difficulty>2</Difficulty>
+        <Answer1>Love me do</Answer1>
+        <Answer2>Here Comes the Sun</Answer2>
+        <Answer3>In My Life</Answer3>
+        <Answer4>Yesterday</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Quanto tempo demora a Lua a dar a volta à Terra (período orbital)?</Tittle>
+        <Category>Física</Category>
+        <Difficulty>2</Difficulty>
+        <Answer1>27 dias e 8 horas</Answer1>
+        <Answer2>25 dias</Answer2>
+        <Answer3>30 dias</Answer3>
+        <Answer4>29 dias e 12 horas</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Qual foi a primeira moeda a ser usada em toda a Europa Ocidental?</Tittle>
+        <Category>História</Category>
+        <Difficulty>2</Difficulty>
+        <Answer1>Sestércio</Answer1>
+        <Answer2>Euro</Answer2>
+        <Answer3>ECU</Answer3>
+        <Answer4>Dracma</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Que matemático e geógrafo grego calculou o perímetro da Terra em 240 a.C.?</Tittle>
+        <Category>História</Category>
+        <Difficulty>2</Difficulty>
+        <Answer1>Eratóstenes</Answer1>
+        <Answer2>Sócrates</Answer2>
+        <Answer3>Sófocles</Answer3>
+        <Answer4>Descartes</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Em qual linguagem foi programado o Minecraft?</Tittle>
+        <Category>Jogo</Category>
+        <Difficulty>2</Difficulty>
+        <Answer1>Java</Answer1>
+        <Answer2>C++</Answer2>
+        <Answer3>HTML</Answer3>
+        <Answer4>C#</Answer4>
+    </Question>
+    <Question>
+        <Tittle>A master sword é um item de qual jogo?</Tittle>
+        <Category>Jogo</Category>
+        <Difficulty>2</Difficulty>
+        <Answer1>Zelda</Answer1>
+        <Answer2>Minecraft</Answer2>
+        <Answer3>Elden Ring</Answer3>
+        <Answer4>Dragon Age: Inquisition</Answer4>
+    </Question>
+</recouse>

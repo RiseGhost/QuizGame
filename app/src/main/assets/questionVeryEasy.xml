@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--> Very Easy question: <!-->
+    <Question>
+        <Tittle>De quem é a famosa frase "Penso, logo Existo"?</Tittle>
+        <Category>Filosofia</Category>
+        <Difficulty>0</Difficulty>
+        <Answer1>Descarte</Answer1>
+        <Answer2>Galileu Galilei</Answer2>
+        <Answer3>Sócatres</Answer3>
+        <Answer4>Platão</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Quantas casas decimais tem o número pi?</Tittle>
+        <Category>Matemática</Category>
+        <Difficulty>0</Difficulty>
+        <Answer1>Infinitas</Answer1>
+        <Answer2>Três</Answer2>
+        <Answer3>Centenas</Answer3>
+        <Answer4>Duas</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Em qual local da Ásia o português é língua oficial?</Tittle>
+        <Category>Linguas</Category>
+        <Difficulty>0</Difficulty>
+        <Answer1>Macau</Answer1>
+        <Answer2>Filipinas</Answer2>
+        <Answer3>Moçambique</Answer3>
+        <Answer4>Portugal</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Quais os nomes dos três Reis Magos?</Tittle>
+        <Category>História</Category>
+        <Difficulty>0</Difficulty>
+        <Answer1>Belchior, Gaspar e Baltazar</Answer1>
+        <Answer2>Belchior, Gaspar e Nataniel</Answer2>
+        <Answer3>Belchior, Gaspar e Nicolau</Answer3>
+        <Answer4>Gabriel, Benjamim e Melchior</Answer4>
+    </Question>
+    <Question>
+        <Tittle>No exterior de que famoso edificio francês foi construída uma enorme pirâmide de vidro em 1989?</Tittle>
+        <Category>Geografia</Category>
+        <Difficulty>0</Difficulty>
+        <Answer1>Museu do Louvre</Answer1>
+        <Answer2>Torre Eiffel</Answer2>
+        <Answer3>Arco do Triunfo</Answer3>
+        <Answer4>Grand Palais</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Quanto é 5 + 3?</Tittle>
+        <Category>Matemática</Category>
+        <Difficulty>0</Difficulty>
+        <Answer1>8</Answer1>
+        <Answer2>9</Answer2>
+        <Answer3>7</Answer3>
+        <Answer4>10</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Qual é o órgão responsável por bombear o sangue?</Tittle>
+        <Category>Biologia</Category>
+        <Difficulty>0</Difficulty>
+        <Answer1>coração</Answer1>
+        <Answer2>plumão</Answer2>
+        <Answer3>estomago</Answer3>
+        <Answer4>rim</Answer4>
+    </Question>
+    <Question>
+        <Tittle>O Brasil pertece a qual continente?</Tittle>
+        <Category>Geografia</Category>
+        <Difficulty>0</Difficulty>
+        <Answer1>América</Answer1>
+        <Answer2>Europa</Answer2>
+        <Answer3>Africa</Answer3>
+        <Answer4>Ásia</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Quantas estações do ano existem?</Tittle>
+        <Category>Geral</Category>
+        <Difficulty>0</Difficulty>
+        <Answer1>4</Answer1>
+        <Answer2>5</Answer2>
+        <Answer3>6</Answer3>
+        <Answer4>3</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Como se chama a mãe da tua mãe?</Tittle>
+        <Category>Geral</Category>
+        <Difficulty>0</Difficulty>
+        <Answer1>Avó</Answer1>
+        <Answer2>Tia</Answer2>
+        <Answer3>Prima</Answer3>
+        <Answer4>Filha</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Qual o nome do planeta em que vives?</Tittle>
+        <Category>Geral</Category>
+        <Difficulty>0</Difficulty>
+        <Answer1>Terra</Answer1>
+        <Answer2>Marte</Answer2>
+        <Answer3>Jupiter</Answer3>
+        <Answer4>Urano</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Quanto planetas existem no nosso sistema solar?</Tittle>
+        <Category>Física</Category>
+        <Difficulty>0</Difficulty>
+        <Answer1>8</Answer1>
+        <Answer2>9</Answer2>
+        <Answer3>6</Answer3>
+        <Answer4>10</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Qual o coletivo de peixes?</Tittle>
+        <Category>Linguas</Category>
+        <Difficulty>0</Difficulty>
+        <Answer1>Cardume</Answer1>
+        <Answer2>Vara</Answer2>
+        <Answer3>Boiada</Answer3>
+        <Answer4>Rebanho</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Qual o nome do macho da cabra</Tittle>
+        <Category>Biologia</Category>
+        <Difficulty>0</Difficulty>
+        <Answer1>Bode</Answer1>
+        <Answer2>Boi</Answer2>
+        <Answer3>Touro</Answer3>
+        <Answer4>Cabro</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Quantas patas uma formiga possui?</Tittle>
+        <Category>Biologia</Category>
+        <Difficulty>0</Difficulty>
+        <Answer1>6</Answer1>
+        <Answer2>8</Answer2>
+        <Answer3>4</Answer3>
+        <Answer4>10</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Quantos segundos há em duas horas?</Tittle>
+        <Category>Matemática</Category>
+        <Difficulty>0</Difficulty>
+        <Answer1>3600</Answer1>
+        <Answer2>2800</Answer2>
+        <Answer3>6900</Answer3>
+        <Answer4>7200</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Qual é o substantivo usado para se referir a um grupo de lobos?</Tittle>
+        <Category>Linguas</Category>
+        <Difficulty>0</Difficulty>
+        <Answer1>Alcateia</Answer1>
+        <Answer2>Bando</Answer2>
+        <Answer3>Matilha</Answer3>
+        <Answer4>Lobos</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Um ângulo de 90º é um ângulo?</Tittle>
+        <Category>Matemática</Category>
+        <Difficulty>0</Difficulty>
+        <Answer1>Reto</Answer1>
+        <Answer2>Obtuso</Answer2>
+        <Answer3>Agudo</Answer3>
+        <Answer4>Raso</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Qual o material escolar usado para apagar?</Tittle>
+        <Category>Geral</Category>
+        <Difficulty>0</Difficulty>
+        <Answer1>Borracha</Answer1>
+        <Answer2>Papel</Answer2>
+        <Answer3>Lápis</Answer3>
+        <Answer4>Caneta</Answer4>
+    </Question>
+    <Question>
+        <Tittle>O tomate é…</Tittle>
+        <Category>Geral</Category>
+        <Difficulty>0</Difficulty>
+        <Answer1>uma fruta</Answer1>
+        <Answer2>uma verdura</Answer2>
+        <Answer3>um legume</Answer3>
+        <Answer4>uma leguminosa</Answer4>
+    </Question>
+</resources>

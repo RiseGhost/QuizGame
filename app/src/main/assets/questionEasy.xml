@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recouse>
+    <!--> Easy questions: <!-->
+    <Question>
+        <Tittle>Atualmente, quantos elementos químicos a tabela periódica possui?</Tittle>
+        <Category>Química</Category>
+        <Difficulty>1</Difficulty>
+        <Answer1>118</Answer1>
+        <Answer2>109</Answer2>
+        <Answer3>98</Answer3>
+        <Answer4>113</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Em que período da pré-história o fogo foi descoberto?</Tittle>
+        <Category>História</Category>
+        <Difficulty>1</Difficulty>
+        <Answer1>Paleolítico</Answer1>
+        <Answer2>Neolítico</Answer2>
+        <Answer3>Período da Pedra Polida</Answer3>
+        <Answer4>Idade dos Metais</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Qual a velocidade da luz no vácuo?</Tittle>
+        <Category>Física</Category>
+        <Difficulty>1</Difficulty>
+        <Answer1>299 792 458 metros por segundo</Answer1>
+        <Answer2>300 000 000 metros por segundo</Answer2>
+        <Answer3>30 000 000 metros por segundo</Answer3>
+        <Answer4>199 792 454 metros por segundo</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Quem foi o primeiro homem a pisar na Lua? Em que ano aconteceu?</Tittle>
+        <Category>História</Category>
+        <Difficulty>1</Difficulty>
+        <Answer1>Neil Armstrong, em 1969</Answer1>
+        <Answer2>Charles Duke, em 1971</Answer2>
+        <Answer3>Yuri Gagarin, em 1961</Answer3>
+        <Answer4>Buzz Aldrin, em 1969</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Onde se situa a Torre de Pisa</Tittle>
+        <Category>Geografia</Category>
+        <Difficulty>1</Difficulty>
+        <Answer1>Itália</Answer1>
+        <Answer2>França</Answer2>
+        <Answer3>Grécia</Answer3>
+        <Answer4>Dinamarca</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Em que dia, ano e mês aconteceu o ataque ás Torres gêmeas?</Tittle>
+        <Category>História</Category>
+        <Difficulty>1</Difficulty>
+        <Answer1>11 de setembro de 2001</Answer1>
+        <Answer2>11 de outubro de 2001</Answer2>
+        <Answer3>11 de setembro de 2000</Answer3>
+        <Answer4>11 de outubro de 2000</Answer4>
+    </Question>
+    <Question>
+        <Tittle>De que local do mundo os Pandas são oriundos?</Tittle>
+        <Category>Biologia</Category>
+        <Difficulty>1</Difficulty>
+        <Answer1>Ásia</Answer1>
+        <Answer2>Europa</Answer2>
+        <Answer3>Africa</Answer3>
+        <Answer4>América</Answer4>
+    </Question>
+    <Question>
+        <Tittle>A qual Mitologia pretence Zeus?</Tittle>
+        <Category>Mitologia</Category>
+        <Difficulty>1</Difficulty>
+        <Answer1>Grega</Answer1>
+        <Answer2>Romana</Answer2>
+        <Answer3>Suméria</Answer3>
+        <Answer4>Egipcia</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Quais são as cores presentes na bandeira da China?</Tittle>
+        <Category>Geografia</Category>
+        <Difficulty>1</Difficulty>
+        <Answer1>vermelho e amarelo</Answer1>
+        <Answer2>laranja e amarelo</Answer2>
+        <Answer3>vermelho, amarelo e branco</Answer3>
+        <Answer4>vermelho e branco</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Qual é o idioma oficial do Egito?</Tittle>
+        <Category>Geografia</Category>
+        <Difficulty>1</Difficulty>
+        <Answer1>Árabe</Answer1>
+        <Answer2>Francês</Answer2>
+        <Answer3>Inglês</Answer3>
+        <Answer4>Egípcio</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Como é o nome da energia gerada pelo vento?</Tittle>
+        <Category>Física</Category>
+        <Difficulty>1</Difficulty>
+        <Answer1>Eólica</Answer1>
+        <Answer2>Hídrica</Answer2>
+        <Answer3>Térmica</Answer3>
+        <Answer4>Química</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Em qual país fica Machu Picchu?</Tittle>
+        <Category>Geografia</Category>
+        <Difficulty>1</Difficulty>
+        <Answer1>Peru</Answer1>
+        <Answer2>Argentina</Answer2>
+        <Answer3>Venezuela</Answer3>
+        <Answer4>Chile</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Qual é o nome do maior osso do corpo humano?</Tittle>
+        <Category>Biologia</Category>
+        <Difficulty>1</Difficulty>
+        <Answer1>Fêmur</Answer1>
+        <Answer2>Vértebras torácicas</Answer2>
+        <Answer3>Esterno</Answer3>
+        <Answer4>Gonfose</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Qual é o nome do criador do Facebook?</Tittle>
+        <Category>Geral</Category>
+        <Difficulty>1</Difficulty>
+        <Answer1>Mark Zuckerberg</Answer1>
+        <Answer2>Bill Gates</Answer2>
+        <Answer3>Jeff Bezos</Answer3>
+        <Answer4>Steve Jobs</Answer4>
+    </Question>
+</recouse>

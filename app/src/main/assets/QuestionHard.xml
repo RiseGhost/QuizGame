@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recouse>
+    <!--> Hard question: <!-->
+    <Question>
+        <Tittle>Em que estado australiano fica situada a cidade de Sydner?</Tittle>
+        <Category>Geografia</Category>
+        <Difficulty>3</Difficulty>
+        <Answer1>Novas Gales do Sul</Answer1>
+        <Answer2>Norfolk</Answer2>
+        <Answer3>Victoria</Answer3>
+        <Answer4>Queensland</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Qual metal foi descoberto por Hans Christian Oersted em 1825?</Tittle>
+        <Category>Química</Category>
+        <Difficulty>3</Difficulty>
+        <Answer1>Alumínio</Answer1>
+        <Answer2>Ósmio</Answer2>
+        <Answer3>Ferro</Answer3>
+        <Answer4>Ródio</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Qual é a vida útil de uma libélula?</Tittle>
+        <Category>Biologia</Category>
+        <Difficulty>3</Difficulty>
+        <Answer1>24 horas</Answer1>
+        <Answer2>72 horas</Answer2>
+        <Answer3>1 semana</Answer3>
+        <Answer4>12 horas</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Qual é a cor da língua da girafa?</Tittle>
+        <Category>Biologia</Category>
+        <Difficulty>3</Difficulty>
+        <Answer1>Roxa ou azul escuro</Answer1>
+        <Answer2>Roxa ou vermelha</Answer2>
+        <Answer3>Castanha ou vermelha</Answer3>
+        <Answer4>Verde ou vermelha</Answer4>
+    </Question>
+    <Question>
+        <Tittle>A qual classe de plantas pretencem os musgos?</Tittle>
+        <Category>Biologia</Category>
+        <Difficulty>3</Difficulty>
+        <Answer1>Briófitas</Answer1>
+        <Answer2>Pteridófitas</Answer2>
+        <Answer3>Gimnospermas</Answer3>
+        <Answer4>Angiospermas</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Qual as dimensões do quadro da Mona Lisa</Tittle>
+        <Category>História</Category>
+        <Difficulty>3</Difficulty>
+        <Answer1>77cm x 53cm</Answer1>
+        <Answer2>77cm x 65cm</Answer2>
+        <Answer3>90cm x 77cm</Answer3>
+        <Answer4>75cm x 75cm</Answer4>
+    </Question>
+    <Question>
+        <Tittle>De quantos graus é inclinação a Torre de Pisa?</Tittle>
+        <Category>História</Category>
+        <Difficulty>3</Difficulty>
+        <Answer1>3,97 graus</Answer1>
+        <Answer2>5,02 graus</Answer2>
+        <Answer3>0,72 graus</Answer3>
+        <Answer4>9,56 graus</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Qual dos seguintes é filho de Ares?</Tittle>
+        <Category>Mitologia</Category>
+        <Difficulty>3</Difficulty>
+        <Answer1>Deimos</Answer1>
+        <Answer2>Ártemis</Answer2>
+        <Answer3>Thalia</Answer3>
+        <Answer4>Filofrósine</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Em que ano aconteceu a queda do império Mongol?</Tittle>
+        <Category>História</Category>
+        <Difficulty>3</Difficulty>
+        <Answer1>1368</Answer1>
+        <Answer2>476 d.c</Answer2>
+        <Answer3>1498</Answer3>
+        <Answer4>756 d.c</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Qual é o nome do 3º imperador romano?</Tittle>
+        <Category>História</Category>
+        <Difficulty>3</Difficulty>
+        <Answer1>Calígula</Answer1>
+        <Answer2>Nero Cláudio César Augusto Germânico</Answer2>
+        <Answer3>Otaviano Augusto</Answer3>
+        <Answer4>Otão</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Qual é o objeto de estudo do puericultor?</Tittle>
+        <Category>Geral</Category>
+        <Difficulty>3</Difficulty>
+        <Answer1>Crianças</Answer1>
+        <Answer2>Coelhos</Answer2>
+        <Answer3>Abelhas</Answer3>
+        <Answer4>Galinhas</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Qual é a corrente filosófica defendida por Martin Heidegger?</Tittle>
+        <Category>Filosofia</Category>
+        <Difficulty>3</Difficulty>
+        <Answer1>Existencialismo</Answer1>
+        <Answer2>Positivismo</Answer2>
+        <Answer3>Niilismo</Answer3>
+        <Answer4>Abstracionismo</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Quem escreveu A Arte da Guerra?</Tittle>
+        <Category>Linguas</Category>
+        <Difficulty>3</Difficulty>
+        <Answer1>Sun Tzu</Answer1>
+        <Answer2>Gandhi</Answer2>
+        <Answer3>Confúcio</Answer3>
+        <Answer4>Mao Tsé Tung</Answer4>
+    </Question>
+    <Question>
+        <Tittle>Qual dos seguintes país é o mais recente?</Tittle>
+        <Category>Geografia</Category>
+        <Difficulty>3</Difficulty>
+        <Answer1>Sudão do Sul</Answer1>
+        <Answer2>Palau</Answer2>
+        <Answer3>Timor Leste</Answer3>
+        <Answer4>Montenegro</Answer4>
+    </Question>
+</recouse>

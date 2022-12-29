@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="260dp"
+    android:layout_height="260dp"
+    android:background="@drawable/custompopup">
+
+
+    <TextView
+        android:id="@+id/Players"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jogadores Selecionados:"
+        android:textColor="#000"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.046" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="265dp"
+        android:layout_height="43dp"
+        android:layout_margin="50dp"
+        android:layout_marginBottom="52dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toTopOf="@+id/Play"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.506"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <RadioButton
+            android:id="@+id/dez"
+            android:layout_width="86dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/customradiubuttonfalse"
+            android:button="@null"
+            android:gravity="center"
+            android:text="10 rondas"
+            android:textColor="#000" />
+
+        <RadioButton
+            android:id="@+id/vinte"
+            android:layout_width="86dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/customradiubuttonfalse"
+            android:button="@null"
+            android:gravity="center"
+            android:text="20 rondas"
+            android:textColor="#000" />
+
+        <RadioButton
+            android:id="@+id/trinta"
+            android:layout_width="86dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/customradiubuttonfalse"
+            android:button="@null"
+            android:gravity="center"
+            android:text="30 rondas"
+            android:textColor="#000" />
+    </RadioGroup>
+
+
+    <Button
+        android:id="@+id/Play"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:background="@drawable/custom_btn"
+        android:text="Play"
+        app:backgroundTint="#2394E1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <HorizontalScrollView
+        android:layout_width="260dp"
+        android:layout_height="60dp"
+        android:foregroundGravity="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.215">
+
+        <LinearLayout
+            android:id="@+id/HorizontalLayout"
+            android:layout_width="276dp"
+            android:layout_height="76dp"
+            android:gravity="center"
+            android:orientation="horizontal" />
+    </HorizontalScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
